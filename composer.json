@@ -1,5 +1,5 @@
 {
-	"name": "alexgarrett/violin",
+	"name": "kifu-alfi/violin",
 	"type": "library",
 	"description": "Violin is an easy to use, highly customisable PHP validator.",
 	"keywords": ["validation"],
